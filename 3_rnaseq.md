@@ -3,7 +3,7 @@
 
 
 
-Make usre you are in a persistenet session for this one
+Make sure you are in a persistent session for this one
 
 ```bash 
 persistent-sessions start -p ad30 bioedu
@@ -24,10 +24,7 @@ echo $PROJECT
 ```
 
 
-now it is time to start the pipeline.  check out the content of the following files
-
-/g/data/ad30/nci_jc.conf
-
+now it is time to start the pipeline.  c
 
 ```bash
  nextflow run nf-core/rnaseq -r 3.23.0 -profile test,nci_gadi -c /g/data/ad30/nci_jc.conf --outdir . 
@@ -37,8 +34,12 @@ now it is time to start the pipeline.  check out the content of the following fi
 while the above is running  check out the content of the following files
 
 /g/data/ad30/nci_jc.conf
+
 https://nf-co.re/configs/nci_gadi/
+
 https://nf-co.re/rnaseq/3.23.0/
+
+https://childrenscancerinstitute.sharepoint.com/sites/BioinformaticsEnablingPlatform/SitePages/BRC%20Wiki.aspx
 
 
 
