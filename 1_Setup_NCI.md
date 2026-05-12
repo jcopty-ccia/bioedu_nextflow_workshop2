@@ -91,21 +91,3 @@ If this works, your environment is ready.
 
 ---
 
-# During the Workshop
-
-We will work through:
-
-1. Running a simple Hello World workflow
-2. Understanding processes and channels
-3. Running a small bioinformatics workflow
-4. Using Nextflow resume and caching
-
----
-
-# Useful References
-
-- [Nextflow Documentation](https://www.nextflow.io/docs/latest/index.html?utm_source=chatgpt.com)
-- [NCI Gadi User Guide](https://opus.nci.org.au/display/Help/Gadi+User+Guide?utm_source=chatgpt.com)
-- [nf-core](https://nf-co.re?utm_source=chatgpt.com)
-
----
