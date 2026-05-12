@@ -5,3 +5,4 @@ Bio-Edu workshop as an introduction to nextflow
 
 1. [Setup NCI](1_Setup_NCI.md)
 2. [Hello World](2_Hello_world.md)
+3. [Sample RNAseq pipeline](3_rnaseq.md)
